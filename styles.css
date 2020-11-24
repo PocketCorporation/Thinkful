@@ -1,0 +1,20 @@
+*{
+    margin: 5px;
+    padding: 0px;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+    background: white;
+}
+
+article {
+    height: 50vh;
+    color: black;
+    
+}
+/* background, color, font-family, font-size,
+height, margin, padding, text-align */
+h1, h2, h3{
+    margin: 10px;
+}
+
